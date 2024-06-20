@@ -6,19 +6,25 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+
 }
 
 #hero #content{
-   width: 31rem;
+   width: 25rem;
+
    margin: 8rem 8rem; 
    text-align: center;
+   
 }
 
 #content h1{
+    color: black;
     font-size: 2.8rem;
     font-weight: 900;
+  
 }
 #content p{
+    color: black;
     font-size: 1.3rem;
     /* color: rgb(246, 232, 42); */
 }
@@ -48,7 +54,7 @@ button{
 }
 
 #more:hover{
-    background-color: rgb(240, 236, 236);
+    /* background-color: rgb(240, 236, 236); */
 }
 
 #search:hover{
